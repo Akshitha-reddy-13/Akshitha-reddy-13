@@ -11,17 +11,15 @@
 
 <p align="left"> <a href="https://twitter.com/babasekhar2121" target="blank"><img src="https://img.shields.io/twitter/follow/babasekhar2121?logo=twitter&style=for-the-badge" alt="babasekhar2121" /></a> </p>
 
-- 🔭 I’m currently working on **Education RouteMap**
+- 🔭 I’m currently working on **ML prediction and classification models**
 
-- 🌱 I’m currently learning **Cyber Stuff, Python, DSA**
+- 🌱 I’m currently learning **AIML, Python, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/babasekhar](https://github.com/babasekhar)
 
-- 💬 Ask me about **Anything that I can able to answer**
+- 📫 How to reach me **akshithajagan13@gmail.com**
 
-- 📫 How to reach me **babasekhar31@gmail.com**
-
-- ⚡ Fun fact **Why was the computer cold? Because it left its Windows open!**
+- ⚡ Fun fact **Did you know an AI once mistook a 3D-printed turtle for a rifle? AI might need glasses!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
