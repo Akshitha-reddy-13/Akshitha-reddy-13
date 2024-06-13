@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **AIML, Python, DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/babasekhar](https://github.com/babasekhar)
+- 👨‍💻 All of my projects are available at https://github.com/Akshitha-reddy-13
 
 - 📫 How to reach me **akshithajagan13@gmail.com**
 
