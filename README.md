@@ -9,8 +9,6 @@
 <p align="left"> <img src="![image](https://github.com/Akshitha-reddy-13/Akshitha-reddy-13/assets/122172211/f509e683-8d00-4d2b-8117-7ecb0a3538b0)
 " alt="AK" /> </p>
 
-<p align="left"> <a href="https://twitter.com/babasekhar2121" target="blank"><img src="https://img.shields.io/twitter/follow/babasekhar2121?logo=twitter&style=for-the-badge" alt="babasekhar2121" /></a> </p>
-
 - 🔭 I’m currently working on **ML prediction and classification models**
 
 - 🌱 I’m currently learning **AIML, Python, DSA**
